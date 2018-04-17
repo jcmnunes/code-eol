@@ -1,5 +1,7 @@
 ## VS Code EOL
 
+**Note**: This is a fork of [sohamkamani/code-eol](https://github.com/sohamkamani/code-eol). The eol character rendered for LF is similar to the Atom one (¬).
+
 This is an extension to display EOL (new line) characters in your code.
 
 Supports `\n`, `\r\n`, and `\r` returns
