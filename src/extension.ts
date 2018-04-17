@@ -61,7 +61,7 @@ export function activate (context: vscode.ExtensionContext) {
 function getDecTxt(match) {
   switch (match) {
     case '\n':
-      return '↓'
+      return '¬'
     case '\r\n':
       return '↵' 
     case '\r':
